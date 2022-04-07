@@ -30,3 +30,14 @@ Ouvrer votre terminal
 Nous allons installer le package.json
 
 npm init
+
+Ensuite il faut installer les modules 
+
+npm i discord.js
+
+Il faut installer Commando
+
+npm i discordjs/Commando
+
+Si vous avez des erreurs lors de cette installation il faut installer git pour ce faire --> https://git-scm.com/downloads et vous allez choisir votre système 
+d'exploitation puis rédemarrer votre ordinateur puis vous retaper la commande npm i discordjs/Commando
